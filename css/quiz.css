@@ -1,0 +1,39 @@
+.container {
+  border: 2px solid gainsboro;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 45px;
+  background-color: gainsboro;
+  width: 50%;
+}
+.answer-holder {
+  display: flex;
+  flex-direction: column;
+}
+.input-text-wrap {
+  display: flex;
+
+  padding: 30px;
+}
+.input-text {
+  display: flex;
+
+  padding: 30px;
+}
+h4 {
+  margin: 0px;
+  width: 43%;
+}
+.button {
+  border: solid 2px greenyellow;
+  background-color: greenyellow;
+  color: white;
+}
+h4 {
+  text-align: center;
+  text-decoration-color: yellowgreen;
+}
+.input-score {
+  position: relative;
+  left: 218px;
+}
